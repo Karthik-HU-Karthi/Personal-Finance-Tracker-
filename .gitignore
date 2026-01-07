@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data files (Prevent uploading your private finances)
+personal_finance.csv
+*.csv
+*.xlsx
+
+# Virtual environments
+venv/
+env/
+.env
+
+# MacOS files
+.DS_Store
