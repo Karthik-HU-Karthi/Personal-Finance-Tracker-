@@ -1,0 +1,7 @@
+These are the specific libraries your notebook uses.*
+
+```text
+pandas
+numpy
+matplotlib
+seaborn
